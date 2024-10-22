@@ -1,7 +1,7 @@
 ## Hi I am SharkPika 👋
 
 <p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox">
+  <a href="https://github.com/Jurredr/github-widgetbo">
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=SharkPika&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
