@@ -5,7 +5,7 @@
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=SharkPika&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/SharkPika">
-          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=mysql,mongodb,redis,git&software=windows&includeNames=true" alt="GitHub WidgetBox" />
+          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=mysql,mongodb,redis,git,postgresql&software=windows&includeNames=true" alt="GitHub WidgetBox" />
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=java,cpp,csharp,python,rust,php,mysql,json,yaml&includeNames=true" alt="GitHub WidgetBox" />
   </a>
 </p>
